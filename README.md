@@ -39,7 +39,7 @@ Implemented the following additional features:
 ## Commands to run the project
 ### Clone the repository
 bash
-git clone 
+git clone https://github.com/Praadnya/CuisineCompass.git
 
 ### Backend
 To start the FastAPI server, run:
